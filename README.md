@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">In zoho we have 4-5 rounds conducted.<br><br>Round-1: Aptitude and basic programming in Java.<br><br>Round-2: Basic Programming.<br><br>Round-3 Advanced Programming.<br><br>Round-4: Technical HR.<br><br>⚡Note:<br>    These Notes are collected by me and no other<br><br>Also check INDIABIX Website to solve the problems for Aptitude and basic programming in Java.<br>
-<a href:"https://www.indiabix.com/"></a></p>
+<p align="left">In zoho we have 4-5 rounds conducted.<br><br>Round-1: Aptitude and basic programming in Java.<br><br>Round-2: Basic Programming.<br><br>Round-3 Advanced Programming.<br><br>Round-4: Technical HR.<br><br>⚡Note:<br>    These Notes are collected by me and no other<br><br>Also check INDIABIX Website to solve the problems for Aptitude and basic programming in Java.<br> 
+https://www.indiabix.com/
 
 ###
